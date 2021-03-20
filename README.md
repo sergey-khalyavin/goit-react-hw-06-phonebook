@@ -1,1 +1,1 @@
-# goit-react-hw-06-phonebook
+This project was published on [](https://github.com/facebook/create-react-app).
